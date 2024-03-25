@@ -31,10 +31,8 @@ This script allows you to control your computer's keyboard and mouse actions bas
 
 ### How to Use
 
-1. Run the script with the URL of the YouTube chat popup window as a command-line argument or enter it when prompted.
-2. Wait for the chat to load.
-3. Send messages in the chat with the specified keywords to trigger actions.
-4. Use the keywords to control keyboard and mouse actions on your computer.
+1. Send messages in the chat with the specified keywords to trigger actions.
+2. Use the keywords to control keyboard and mouse actions on the computer.
 
 ### Example
 
